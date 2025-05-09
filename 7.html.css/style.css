@@ -29,7 +29,7 @@
     animation-duration: 1.5s;
     animation-timing-function: ease-in-out;
     animation-delay: 0.2s;
-    animation-iteration-count: 1;
+    animation-iteration-count: infinite;
     animation-duration: normal;
     animation-fill-mode: both;
     animation-play-state: running;
@@ -48,7 +48,7 @@
     animation-duration: 1.5s;
     animation-timing-function: ease-in-out;
     animation-delay: 0.2s;
-    animation-iteration-count: 1;
+    animation-iteration-count: infinite;
     animation-duration: normal;
     animation-fill-mode: both;
     animation-play-state: running;
